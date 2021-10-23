@@ -7,4 +7,5 @@ public class Replaceall0with5 {
     static int convertFive(int n){
         return 0;
     }
+    //check push
 }
